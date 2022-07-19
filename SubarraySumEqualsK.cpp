@@ -29,3 +29,4 @@ int main(){
     cout<<subarraySum(nums,k);
 
 }
+https://leetcode.com/problems/subarray-sum-equals-k/
